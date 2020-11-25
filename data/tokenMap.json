@@ -1,0 +1,85 @@
+{
+    "Actors":
+    [
+        {
+            "Name": "Pseudodragon",
+            "link": "https://klindel-foundry-vtt-assets.s3.us-east-2.amazonaws.com/uploads/tokens/NPCs/Pseudodragon_Tiny_Dragon_*.png"
+        },
+        {
+            "Name": "Acolyte",
+            "link": "https://klindel-foundry-vtt-assets.s3.us-east-2.amazonaws.com/uploads/tokens/NPCs/Acolyte_Medium_Humanoid_*.png"
+        },
+        {
+            "Name": "Bandit",
+            "link": "https://klindel-foundry-vtt-assets.s3.us-east-2.amazonaws.com/uploads/tokens/NPCs/Bandit_*.png"
+        },
+        {
+            "Name":"Crocodile",
+            "link":"https://klindel-foundry-vtt-assets.s3.us-east-2.amazonaws.com/uploads/tokens/NPCs/Crocodile_Large_Beast_*.png"
+        },
+        {
+            "Name": "Cultist",
+            "link": "https://klindel-foundry-vtt-assets.s3.us-east-2.amazonaws.com/uploads/tokens/NPCs/Cultist_*.png"
+        },
+        {
+            "Name": "Draft Horse",
+            "link": "https://klindel-foundry-vtt-assets.s3.us-east-2.amazonaws.com/uploads/tokens/NPCs/Draft_Horse_Large_Beast_*.png"
+        },
+        {
+            "Name": "Elk",
+            "link": "https://klindel-foundry-vtt-assets.s3.us-east-2.amazonaws.com/uploads/tokens/NPCs/Elk_Large_Beast_*.png"
+        },
+        {
+            "Name": "Giant Elk",
+            "link": "https://klindel-foundry-vtt-assets.s3.us-east-2.amazonaws.com/uploads/tokens/NPCs/Giant_Elk_Huge_Beast_*.png"
+        },
+        {
+            "Name": "Giant Spider",
+            "link": "https://klindel-foundry-vtt-assets.s3.us-east-2.amazonaws.com/uploads/tokens/NPCs/Giant_Spider*.png"
+        },
+        {
+            "Name": "Guard",
+            "link": "https://klindel-foundry-vtt-assets.s3.us-east-2.amazonaws.com/uploads/tokens/NPCs/Guard_*.png"
+        },
+        {
+            "Name": "Hobgoblin",
+            "link": "https://klindel-foundry-vtt-assets.s3.us-east-2.amazonaws.com/uploads/tokens/NPCs/Hobgoblin_Medium_Humanoid_*.png"
+        },
+        {
+            "Name": "Hobgoblin Captain",
+            "link": "https://klindel-foundry-vtt-assets.s3.us-east-2.amazonaws.com/uploads/tokens/NPCs/Hobgoblin_Warlord_Medium_Humanoid_*.png"
+        },
+        {
+            "Name": "Kobold",
+            "link": "https://klindel-foundry-vtt-assets.s3.us-east-2.amazonaws.com/uploads/tokens/NPCs/Kobold_*.png"
+        },
+        {
+            "Name": "Magmin",
+            "link": "https://klindel-foundry-vtt-assets.s3.us-east-2.amazonaws.com/uploads/tokens/NPCs/Magmin_Small_Elemental_*.png"
+        },
+        {
+            "Name": "Noble",
+            "link": "https://klindel-foundry-vtt-assets.s3.us-east-2.amazonaws.com/uploads/tokens/NPCs/Noble_*.png"
+        },
+        {
+            "Name": "Orc",
+            "link": "https://klindel-foundry-vtt-assets.s3.us-east-2.amazonaws.com/uploads/tokens/NPCs/Orc_Medium_Humanoid_*.png"
+        },
+        {
+            "Name": "Riding Horse",
+            "link": "https://klindel-foundry-vtt-assets.s3.us-east-2.amazonaws.com/uploads/tokens/NPCs/Riding_Horse_Large_Beast_*.png"
+        },
+        {
+            "Name": "Satyr",
+            "link": "https://klindel-foundry-vtt-assets.s3.us-east-2.amazonaws.com/uploads/tokens/NPCs/Satyr_Medium_Fey_*.png"
+        },
+        {
+            "Name": "Scout",
+            "link": "https://klindel-foundry-vtt-assets.s3.us-east-2.amazonaws.com/uploads/tokens/NPCs/Scout_Medium_Humanoid_*.png"
+        },
+        {
+            "Name": "Will-o'-Wisp",
+            "link": "https://klindel-foundry-vtt-assets.s3.us-east-2.amazonaws.com/uploads/tokens/NPCs/Will-o'-Wisp_*.png"
+        }
+    ]
+}

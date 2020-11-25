@@ -1,0 +1,19 @@
+{
+	"name": "klindel-tokenizer",
+	"title": "Klindels S3 Tokenizer",
+	"description": "Automatically Update known tokens to the new values on S3",
+	"version": "0.1",
+	"minimumCoreVersion" : "0.5.7",
+	"compatibleCoreVersion" : "0.7.0",
+	"author": "Klindel",
+	"esmodules": [
+		"scripts/init.js"
+	],	
+	"scripts": [],
+	"socket": true,
+	"styles": [],
+	"languages": [],
+	"url": "https://github.com/klindel/klindel-tokenizer",
+	"manifest": "FILL_ME_INA",
+	"download": "FILL_ME_INA"
+}
